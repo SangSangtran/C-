@@ -1,0 +1,5 @@
+﻿  baitimchanle.cpp
+e:\c++\visual studio 2015\huỳnh luân thực hành c++ school\mảng 1 chiều\bai 1\bai 1\baitimchanle.cpp(17): error C2131: expression did not evaluate to a constant
+  e:\c++\visual studio 2015\huỳnh luân thực hành c++ school\mảng 1 chiều\bai 1\bai 1\baitimchanle.cpp(17): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  e:\c++\visual studio 2015\huỳnh luân thực hành c++ school\mảng 1 chiều\bai 1\bai 1\baitimchanle.cpp(17): note: see usage of 'n'
+e:\c++\visual studio 2015\huỳnh luân thực hành c++ school\mảng 1 chiều\bai 1\bai 1\baitimchanle.cpp(22): warning C4552: '>>': operator has no effect; expected operator with side-effect
